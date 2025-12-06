@@ -206,3 +206,14 @@ se podría añadir persistencia (archivo JSON o base de datos) y manejo de usuar
 2) Python documentation - Defining functions
 3) Tutoriales sobre CRUD básico en Python
 """
+
+
+#carga a github 
+
+"""
+    URL:
+    https://github.com/Mauro-Mtz/MauRepo.git
+
+    perdone si algunas cargas no tienen el url de github
+    si los archivos no aparecen en el repoitorio solo informeme para subirlo
+"""
